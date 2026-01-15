@@ -1,13 +1,13 @@
-cb76924ce5638025960424ebbf23bf64 *DESCRIPTION
+b2ac5814f8efe0a501a2ef19dbe08d48 *DESCRIPTION
 dc8b2faa8df773d5a61be0fc1c766868 *NAMESPACE
 c74d4fba9207cf18fc335965fdd7e538 *R/LanguageIdentifier.R
 5c6ae30a516d1e507930b19bda34feeb *R/TableExtraction.R
 24ac8e035a3535cc042a70ccf7798bd7 *R/TextExtraction.R
-15ffb0acf6c8d0dacb63791512244308 *R/global.R
-4ac404efa72b1eecb8c736ea50a76b84 *R/orderanalyzer-package.R
+1955543bb570542673787b6fb41d6eeb *R/global.R
+5171d0704134c9892d545d9ee469418a *R/orderanalyzer-package.R
 995b27a2314c56dc1f480955fb502a85 *inst/extdata/OrderDocument_de.pdf
 75d407ba75c5e124363e1039d19a9351 *inst/extdata/OrderDocument_en.pdf
 e313243e8ff01806ee7571cd7b2a89c5 *man/extractTables.Rd
 9db9d8d833e3b88f940d7ba6865c2637 *man/extractText.Rd
 4ddd0382eadaefd8c15dda45462a61e8 *man/identifyLanguage.Rd
-d616047843f912778ba8edcdc4511dc0 *man/orderanalyzer-package.Rd
+2307d5db090b47cdcad0aaf1c21f7201 *man/orderanalyzer-package.Rd

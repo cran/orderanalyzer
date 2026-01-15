@@ -10,7 +10,7 @@ PDF-based order documents.
 }
 \details{
 \tabular{ll}{ Package: \tab orderanalyzer\cr Type: \tab Package\cr Version:
-\tab 1.0.0\cr Date: \tab 2024-12-11\cr License: \tab GPL-3\cr Depends: \tab
+\tab 1.0.1\cr Date: \tab 2026-01-15\cr License: \tab GPL-3\cr Depends: \tab
 R (>= 4.3.0)}
 }
 \author{

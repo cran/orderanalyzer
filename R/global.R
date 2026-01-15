@@ -19,7 +19,8 @@ utils::globalVariables(c("absLine",
                          "width", "wordBox", "wordLength", "wordX1", "wordX2", "wordY1", "wordY2",
                          "x",
                          "y", "yBottom",
-                         "."
+                         ".",
+                         "id"
                          ))
 
 pkg.conf <- new.env()
